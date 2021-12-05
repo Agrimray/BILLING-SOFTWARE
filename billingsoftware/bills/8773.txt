@@ -1,0 +1,17 @@
+		Welcome gagdfk
+
+ Date : 20/02/2021
+ Time : 14:03:33
+ Bill Number : 8773
+ Customer Name : gagdfk
+ Phone Number : nf dnf 
+===========================================
+ Products		QTY		Price
+===========================================
+ Food Oil		1		180
+*******************************************
+ Grocery Tax			Rs. 18.0
+ Total Bill : 			 Rs. 198.0
+*******************************************
+		THANK YOU 
+		VISIT AGAIN 

@@ -1,0 +1,19 @@
+		Welcome bdjdke
+
+ Date : 20/02/2021
+ Time : 18:35:51
+ Bill Number : 2906
+ Customer Name : bdjdke
+ Phone Number : 64161635
+===========================================
+ Products		QTY		Price
+===========================================
+ Hair Gell		100		14000
+ Daal		55		3300
+*******************************************
+ Cosmetic Tax			Rs. 700.0
+ Grocery Tax			Rs. 330.0
+ Total Bill : 			 Rs. 18330.0
+*******************************************
+		THANK YOU 
+		VISIT AGAIN 

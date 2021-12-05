@@ -1,0 +1,21 @@
+		Welcome agrim
+
+ Date : 19/09/2021
+ Time : 21:26:57
+ Bill Number : 5033
+ Customer Name : agrim
+ Phone Number : 893480596
+===========================================
+ Products		QTY		Price
+===========================================
+ Bath Soap		3		120
+ Food Oil		4		720
+ Frooti		7		350
+*******************************************
+ Cosmetic Tax			Rs. 6.0
+ Grocery Tax			Rs. 72.0
+ Cold Drink Tax			Rs. 17.5
+ Total Bill : 			 Rs. 1285.5
+*******************************************
+		THANK YOU 
+		VISIT AGAIN 
